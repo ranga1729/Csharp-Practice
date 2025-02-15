@@ -7,7 +7,6 @@ namespace Calculator_GUI
             InitializeComponent();
         }
 
-        string calTotal;
         int num1;
         int num2;
         string option;

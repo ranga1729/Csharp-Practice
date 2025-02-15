@@ -60,7 +60,7 @@
             // 
             btn7.Cursor = Cursors.Hand;
             btn7.Font = new Font("Segoe UI Semibold", 11.25F, FontStyle.Bold);
-            btn7.Location = new Point(12, 59);
+            btn7.Location = new Point(12, 98);
             btn7.Name = "btn7";
             btn7.Size = new Size(45, 46);
             btn7.TabIndex = 1;
@@ -72,7 +72,7 @@
             // 
             btn8.Cursor = Cursors.Hand;
             btn8.Font = new Font("Segoe UI Semibold", 11.25F, FontStyle.Bold);
-            btn8.Location = new Point(63, 59);
+            btn8.Location = new Point(63, 98);
             btn8.Name = "btn8";
             btn8.Size = new Size(45, 46);
             btn8.TabIndex = 2;
@@ -84,7 +84,7 @@
             // 
             btn9.Cursor = Cursors.Hand;
             btn9.Font = new Font("Segoe UI Semibold", 11.25F, FontStyle.Bold);
-            btn9.Location = new Point(114, 59);
+            btn9.Location = new Point(114, 98);
             btn9.Name = "btn9";
             btn9.Size = new Size(45, 46);
             btn9.TabIndex = 3;
@@ -97,7 +97,7 @@
             btn_add.BackColor = SystemColors.ButtonFace;
             btn_add.Cursor = Cursors.Hand;
             btn_add.Font = new Font("Segoe UI Semibold", 11.25F, FontStyle.Bold);
-            btn_add.Location = new Point(165, 59);
+            btn_add.Location = new Point(165, 98);
             btn_add.Name = "btn_add";
             btn_add.Size = new Size(45, 46);
             btn_add.TabIndex = 4;
@@ -110,7 +110,7 @@
             btn_sub.BackColor = SystemColors.ButtonFace;
             btn_sub.Cursor = Cursors.Hand;
             btn_sub.Font = new Font("Segoe UI Semibold", 11.25F, FontStyle.Bold);
-            btn_sub.Location = new Point(165, 111);
+            btn_sub.Location = new Point(165, 150);
             btn_sub.Name = "btn_sub";
             btn_sub.Size = new Size(45, 46);
             btn_sub.TabIndex = 8;
@@ -122,7 +122,7 @@
             // 
             btn6.Cursor = Cursors.Hand;
             btn6.Font = new Font("Segoe UI Semibold", 11.25F, FontStyle.Bold);
-            btn6.Location = new Point(114, 111);
+            btn6.Location = new Point(114, 150);
             btn6.Name = "btn6";
             btn6.Size = new Size(45, 46);
             btn6.TabIndex = 7;
@@ -134,7 +134,7 @@
             // 
             btn5.Cursor = Cursors.Hand;
             btn5.Font = new Font("Segoe UI Semibold", 11.25F, FontStyle.Bold);
-            btn5.Location = new Point(63, 111);
+            btn5.Location = new Point(63, 150);
             btn5.Name = "btn5";
             btn5.Size = new Size(45, 46);
             btn5.TabIndex = 6;
@@ -146,7 +146,7 @@
             // 
             btn4.Cursor = Cursors.Hand;
             btn4.Font = new Font("Segoe UI Semibold", 11.25F, FontStyle.Bold);
-            btn4.Location = new Point(12, 111);
+            btn4.Location = new Point(12, 150);
             btn4.Name = "btn4";
             btn4.Size = new Size(45, 46);
             btn4.TabIndex = 5;
@@ -159,7 +159,7 @@
             btn_multi.BackColor = SystemColors.ButtonFace;
             btn_multi.Cursor = Cursors.Hand;
             btn_multi.Font = new Font("Segoe UI Semibold", 11.25F, FontStyle.Bold);
-            btn_multi.Location = new Point(165, 163);
+            btn_multi.Location = new Point(165, 202);
             btn_multi.Name = "btn_multi";
             btn_multi.Size = new Size(45, 46);
             btn_multi.TabIndex = 12;
@@ -171,7 +171,7 @@
             // 
             btn3.Cursor = Cursors.Hand;
             btn3.Font = new Font("Segoe UI Semibold", 11.25F, FontStyle.Bold);
-            btn3.Location = new Point(114, 163);
+            btn3.Location = new Point(114, 202);
             btn3.Name = "btn3";
             btn3.Size = new Size(45, 46);
             btn3.TabIndex = 11;
@@ -183,7 +183,7 @@
             // 
             btn2.Cursor = Cursors.Hand;
             btn2.Font = new Font("Segoe UI Semibold", 11.25F, FontStyle.Bold);
-            btn2.Location = new Point(63, 163);
+            btn2.Location = new Point(63, 202);
             btn2.Name = "btn2";
             btn2.Size = new Size(45, 46);
             btn2.TabIndex = 10;
@@ -195,7 +195,7 @@
             // 
             btn1.Cursor = Cursors.Hand;
             btn1.Font = new Font("Segoe UI Semibold", 11.25F, FontStyle.Bold);
-            btn1.Location = new Point(12, 163);
+            btn1.Location = new Point(12, 202);
             btn1.Name = "btn1";
             btn1.Size = new Size(45, 46);
             btn1.TabIndex = 9;
@@ -208,7 +208,7 @@
             btn_divide.BackColor = SystemColors.ButtonFace;
             btn_divide.Cursor = Cursors.Hand;
             btn_divide.Font = new Font("Segoe UI Semibold", 11.25F, FontStyle.Bold);
-            btn_divide.Location = new Point(165, 215);
+            btn_divide.Location = new Point(165, 254);
             btn_divide.Name = "btn_divide";
             btn_divide.Size = new Size(45, 46);
             btn_divide.TabIndex = 16;
@@ -221,7 +221,7 @@
             btn_equal.BackColor = SystemColors.ButtonFace;
             btn_equal.Cursor = Cursors.Hand;
             btn_equal.Font = new Font("Segoe UI Semibold", 11.25F, FontStyle.Bold);
-            btn_equal.Location = new Point(114, 215);
+            btn_equal.Location = new Point(114, 254);
             btn_equal.Name = "btn_equal";
             btn_equal.Size = new Size(45, 46);
             btn_equal.TabIndex = 15;
@@ -233,7 +233,7 @@
             // 
             btn0.Cursor = Cursors.Hand;
             btn0.Font = new Font("Segoe UI Semibold", 11.25F, FontStyle.Bold);
-            btn0.Location = new Point(63, 215);
+            btn0.Location = new Point(63, 254);
             btn0.Name = "btn0";
             btn0.Size = new Size(45, 46);
             btn0.TabIndex = 14;
@@ -246,7 +246,7 @@
             btn_clear.BackColor = SystemColors.ButtonFace;
             btn_clear.Cursor = Cursors.Hand;
             btn_clear.Font = new Font("Segoe UI Semibold", 11.25F, FontStyle.Bold);
-            btn_clear.Location = new Point(12, 215);
+            btn_clear.Location = new Point(12, 254);
             btn_clear.Name = "btn_clear";
             btn_clear.Size = new Size(45, 46);
             btn_clear.TabIndex = 13;
@@ -258,7 +258,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(225, 276);
+            ClientSize = new Size(225, 317);
             Controls.Add(btn_divide);
             Controls.Add(btn_equal);
             Controls.Add(btn0);
