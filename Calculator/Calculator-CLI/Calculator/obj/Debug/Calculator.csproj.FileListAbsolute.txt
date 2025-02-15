@@ -1,0 +1,7 @@
+C:\Users\ranga\Desktop\C# projects\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\ranga\Desktop\C# projects\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\ranga\Desktop\C# projects\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\ranga\Desktop\C# projects\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\ranga\Desktop\C# projects\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ranga\Desktop\C# projects\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\ranga\Desktop\C# projects\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
